@@ -1,6 +1,6 @@
 const particlesConfig = {
     background: "transparent",
-    fpsLimit: 120,
+    fpsLimit: 24,
     interactivity: {
         events: {
             onClick: {
