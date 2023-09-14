@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(#393E46, #222831);
+}
+#intro{
+    height: calc(100vh-4rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    
+}
+.introContent{
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    color: white;
+}
+.hello{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+.introName{
+    color: #00ADB5;
+}
+.description{
+    font-size: medium;
+    font-weight: 100;
+}
+/*Icon css*/
+.socialIcons-list{
+    list-style-type: none; /*hide bullet points*/
+    display: flex;
+    justify-content: flex-start;
+}
+.socialIcons-list li{
+    display: inline-block;
+    padding: 0.5rem;
+}
+.icon{
+    color: white;
+    font-size: 40px;
+    transition: color 0.2s;
+}
+.icon:hover{
+    color: gray;
+    cursor: pointer;
+}
