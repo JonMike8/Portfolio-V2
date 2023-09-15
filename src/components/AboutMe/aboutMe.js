@@ -1,8 +1,6 @@
 import React from 'react'
 import './aboutMe.css'
 import portrait from '../../assets/portrait_cropped-min.jpg'
-import frontend from '../../assets/frontend-logo.jpg'
-import gear from '../../assets/gear-icon.png'
 
 
 const AboutMe = () => {

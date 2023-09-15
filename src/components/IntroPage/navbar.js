@@ -11,5 +11,5 @@ const Navbar = () =>{
             <a className="nav-item" href="#contact">Contact</a>
         </nav>
     )
-}
+} 
 export default Navbar

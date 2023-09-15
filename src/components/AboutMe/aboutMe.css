@@ -52,3 +52,22 @@
     color: gray;
     text-decoration: underline;
 }
+@media (max-width: 840px) {
+    .portrait{
+    max-width: 200px;
+    max-height: 300px;
+    margin: 0px;
+    }
+    #aboutMe{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .aboutMeText{
+        font-size: 0.8rem;
+        font-weight: 300;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+  }

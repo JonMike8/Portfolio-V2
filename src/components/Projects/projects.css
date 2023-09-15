@@ -1,13 +1,10 @@
 #projects{
-    margin: 0 auto;
+    margin: 0px;
     min-height: calc(100vh-4rem);
-    width: 100vh;
-    max-width: 60rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 0 1rem;
 }
 .projectsTitle{
     color: white;
@@ -53,4 +50,9 @@
 }
 .projectsContainer p{
     font-weight: 300;
+}
+@media (max-width: 840px){
+    .project{
+        width: 100%;
+    }
 }
