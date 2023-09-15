@@ -7,8 +7,8 @@ const Navbar = () =>{
         <nav className="navbar">
             <a className="nav-item" href="#intro">Home</a>
             <a className="nav-item" href="#aboutMe">About</a>
-            <a className="nav-item">Projects</a>
-            <a className="nav-item">Contact</a>
+            <a className="nav-item" href="#projects">Projects</a>
+            <a className="nav-item" href="#contact">Contact</a>
         </nav>
     )
 }
