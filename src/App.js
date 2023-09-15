@@ -10,8 +10,10 @@ function App() {
     return (
       <>
         <Navbar />
-        <Intro />
-        <ParticlesBackground /> 
+        <div id='responsiveArea'>
+          <Intro />
+          <ParticlesBackground /> 
+        </div>
         <AboutMe />
         <Projects/>
       </>

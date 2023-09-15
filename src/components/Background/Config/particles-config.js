@@ -1,6 +1,9 @@
 const particlesConfig = {
     background: "transparent",
-    fpsLimit: 120,
+    style: {
+        position: 'absolute'
+    },
+    fpsLimit: 30,
     interactivity: {
         events: {
             onClick: {
@@ -49,7 +52,7 @@ const particlesConfig = {
                 enable: true,
                 area: 800,
             },
-            value: 80,
+            value: 40,
         },
         opacity: {
             value: 0.5,

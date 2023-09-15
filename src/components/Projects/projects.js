@@ -4,7 +4,6 @@ import ppp from '../../assets/PPPgraphs.PNG'
 import acp from '../../assets/ACP_UI.PNG'
 import tictaktoe from '../../assets/tictaktoe.jpg'
 
-
 const Projects = () => {
   return (
     <section id="projects">

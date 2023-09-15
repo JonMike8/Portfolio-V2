@@ -20,8 +20,7 @@ const ParticleBackground = () => {
             init={particlesInit}
             loaded={particlesLoaded}
             options = {particlesConfig}>
-         </Particles>
-            
+         </Particles>            
     )
 }
 export default ParticleBackground
