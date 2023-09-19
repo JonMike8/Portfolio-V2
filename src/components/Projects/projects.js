@@ -17,7 +17,7 @@ const Projects = () => {
       desc: projectDescriptions[0],
     },
     {
-      title: 'Anti-Copy-Paster Undergraduate Rsearch',
+      title: 'Anti-Copy-Paster Undergraduate Research',
       image: acp, 
       link: 'https://github.com/refactorings/anti-copy-paster',
       desc: projectDescriptions[1],

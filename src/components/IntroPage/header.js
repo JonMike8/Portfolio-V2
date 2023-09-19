@@ -1,5 +1,6 @@
 import React from 'react'
 import './header.css'
+import resume from '../../assets/Jonathan Memoli Resume 9.19.23 v2.pdf'
 
 //MAKE SURE TO ADD RESUME TO ASSETS AND IMPORT IT 
 const Intro = () => {
@@ -13,7 +14,7 @@ const Intro = () => {
                     Connect with me here:</p>
                     <div class="socialIcons">
                         <ul class="socialIcons-list">
-                            <li><a class="icon" href="JMResume_2.24.pdf" target="_blank"><ion-icon name="newspaper-outline"></ion-icon></a></li>
+                            <li><a class="icon" href={resume} target="_blank"><ion-icon name="newspaper-outline"></ion-icon></a></li>
                             <li><a class="icon" href="https://github.com/JonMike8" target="_blank"><ion-icon name="logo-github"></ion-icon></a></li>
                             <li><a class="icon" href="www.linkedin.com/in/jonathan-m-memoli" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a></li>
                         </ul>
