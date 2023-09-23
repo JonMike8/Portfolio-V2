@@ -1,6 +1,7 @@
 import React from 'react'
 import Particles from "react-tsparticles"
 import particlesConfig from './Config/particles-config'
+//import particlesConfigHex from './Config/particles-config-hex'
 //import {loadFull} from "tsparticles"
 import {useCallback} from 'react'
 import {loadSlim} from 'tsparticles-slim'
