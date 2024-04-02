@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css'
-import resume from '../../assets/Jonathan Memoli Resume 9.19.23 v2.pdf'
+import resume from '../../assets/Jonathan Memoli Resume 4.2.24.pdf';
 
 //MAKE SURE TO ADD RESUME TO ASSETS AND IMPORT IT 
 const Intro = () => {
