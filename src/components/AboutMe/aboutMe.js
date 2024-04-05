@@ -12,21 +12,16 @@ const AboutMe = () => {
 				</div>
 				<p className="aboutMeText">
 					I am currently in my third year at Stevens Institute of
-					Technology pursuing a Bachelors of Engineering in Software
+					Technology pursuing a Bachelor of Engineering in Software
 					Engineering. I am eager to apply what I have learned as well
 					as develop new skills in challenging engineering roles. This
-					past summer I worked with{' '}
-					<a
-						class="inlineLink"
-						href="https://www.stevens.edu/profile/ealomar"
-						target="_blank"
-					>
-						Professor AlOmar
-					</a>{' '}
-					on the AntiCopyPaster tool for Intellij.
+					past summer I worked on the AntiCopyPaster tool for Intellij
+					to help automatically suggest code refactorings.
 					<br />
 					My programming skills include Java, Python, HTML/CSS,
-					Javascript, C++, React.js, and SQL.
+					Javascript, Typescript, C++, and SQL. Some other 
+					technologies I have experience with are Node.js, React.js, 
+					Next.js, Django, and Docker. 
 					<br />A few of my other interests besides programming
 					include playing chess, skiing, and exercising!
 				</p>
