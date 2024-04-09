@@ -21,9 +21,10 @@ const AboutMe = () => {
 					My programming skills include Java, Python, HTML/CSS,
 					Javascript, Typescript, C++, and SQL. Some other 
 					technologies I have experience with are Node.js, React.js, 
-					Next.js, Django, and Docker. 
+					Next.js, Django, and Docker.    
 					<br />A few of my other interests besides programming
 					include playing chess, skiing, and exercising!
+					
 				</p>
 			</div>
 		</section>
